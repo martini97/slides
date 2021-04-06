@@ -1,0 +1,9 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^5.0.0"
+  }
+}
