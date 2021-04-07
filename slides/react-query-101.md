@@ -3,7 +3,7 @@ title: React Query 101
 ---
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/assets/react-query-logo.svg" height="150px" width="150px" />
+  <img src="assets/react-query-logo.svg" height="150px" width="150px" />
   <h1 style="margin-left: 1rem;">React Query 101</h1>
 </div>
 <p>
