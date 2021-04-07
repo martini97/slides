@@ -1,8 +1,0 @@
-{
-  "separator": "<!--s-->",
-  "verticalSeparator": "<!--v-->",
-  "theme": "solarized",
-  "highlightTheme": "github",
-  "scripts": "lib/mermaid.min.js,lib/reveal-mermaid.js",
-  "listingTemplate": "./templates/listing.html"
-}
